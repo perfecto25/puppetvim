@@ -5,6 +5,7 @@ set fo=tcq
 set nocompatible
 set modeline
 set bg=dark
+set number
 
 syntax on
 
