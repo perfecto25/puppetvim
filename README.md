@@ -2,4 +2,4 @@ to enable your VIM editor for Puppet syntax, go to ~/ dir and clone this reposit
 
 cd ~/ && git clone https://github.com/perfecto25/puppetvim.git
 
-cd ~/ && mv puppetvim/.vim* ~/ && rm -rf ~/puppetvim
+cd ~/ && mv -f puppetvim/.vimrc ~/ && rm -rf ~/puppetvim
